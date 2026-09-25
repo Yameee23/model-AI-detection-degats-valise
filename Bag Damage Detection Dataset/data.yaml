@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['Damage-bag']
+
+roboflow:
+  workspace: project1bag-and-handle-detection
+  project: damage-1ijzn
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project1bag-and-handle-detection/damage-1ijzn/dataset/8
