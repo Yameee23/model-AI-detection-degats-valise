@@ -1,6 +1,6 @@
 # Détection de dégâts sur valises  avec : YOLOv8
 
-Voici mon projet personnel de vision par ordinateur : c'est un modèle qui détecte automatiquement les dégâts (déchirures, trous...) sur des valises, à partir d'une simple photo.
+Voici mon projet : c'est un modèle qui détecte automatiquement les dégâts (déchirures, trous...) sur des valises, à partir d'une simple photo.
 
 ## Objectif
 
