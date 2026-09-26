@@ -32,7 +32,7 @@ Comparaison entre l'annotation de référence (contour humain) et la prédiction
 
 ![Comparaison prédiction vs vérité terrain](superposer.png)
 
-| Vérité terrain | Prédiction du modèle |
+| Vérité | Prédiction du modèle |
 |---|---|
 | ![Vérité](reponsevalise.png) | ![Prédiction](monmodele.png) |
 
